@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! Here you can find my education background, work experience, and projects that demonstrate my skills and passion in data science and software development.
 
 ---
-## 🎓 Education
+### 🎓 Education
 - **BSc Computer Science**  
   Queen Mary, University of London (2021 - 2024)  
   - Relevant Courses:  
@@ -16,7 +16,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 
 ---
 
-## 💼 Work Experience
+###💼 Work Experience
 - **AI Model Reviewer | Outlier | Remote**  
   May 2024 - Present  
   - Reviewed responses 30% faster than peers, improving project efficiency.
@@ -33,7 +33,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 
 ---
 
-## 🛠️ Projects
+### 🛠️ Projects
 - **Machine Learning-Based Robbery and Crime Detection System**  
   *September 2023 - May 2024*  
   - Developed a crime detection system using Python, OpenCV, and MediaPipe.
@@ -54,7 +54,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - **Email:** 51305130ss@gmail.com
 - **LinkedIn:** [Janghoon Jung](https://www.linkedin.com/in/janghoon-jung-6b28a5218/)
 - **GitHub:** [yourusername](https://github.com/yourusername)
