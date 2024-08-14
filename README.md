@@ -3,7 +3,6 @@
 Welcome to my personal portfolio! Here you can find my education background, work experience, and projects that demonstrate my skills and passion in data science and software development.
 
 ---
-
 ## 🎓 Education
 - **BSc Computer Science**  
   Queen Mary, University of London (2021 - 2024)  
