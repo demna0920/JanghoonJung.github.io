@@ -5,7 +5,8 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 ---
 ### 🎓 Education
 - **BSc Computer Science**  
-  Queen Mary, University of London (2021 - 2024)  
+  Queen Mary, University of London (2021 - 2024)
+  upper second class achievement
   - Relevant Courses:  
     - Professional and Research Practice (90%)
     - Graphical User Interfaces (81%)
@@ -16,7 +17,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 
 ---
 
-###💼 Work Experience
+### 💼 Work Experience
 - **AI Model Reviewer | Outlier | Remote**  
   May 2024 - Present  
   - Reviewed responses 30% faster than peers, improving project efficiency.
