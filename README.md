@@ -53,7 +53,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 ### 📫 Contact
 - **Email:** 51305130ss@gmail.com
 - **LinkedIn:** [Janghoon Jung](https://www.linkedin.com/in/janghoon-jung-6b28a5218/)
-- **GitHub:** [yourusername](https://github.com/demna0920)
+- **GitHub:** [demna0920](https://github.com/demna0920)
 
 ---
 
