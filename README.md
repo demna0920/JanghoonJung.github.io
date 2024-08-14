@@ -1,4 +1,3 @@
-# JanghoonJung.github.io
 
 ### Education 
 
