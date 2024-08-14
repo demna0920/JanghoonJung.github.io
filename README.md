@@ -39,26 +39,21 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   *September 2023 - May 2024*  
   - Developed a crime detection system using Python, OpenCV, and MediaPipe.
   - Achieved a 57% accuracy rate with a custom YOLO dataset for weapon detection.
-  - [Project Repository](https://github.com/yourusername/crime-detection-system)
+  - [Project Repository](https://github.com/demna0920/crime-detection-system)
 
 - **Face Recognition System**  
   *September 2023 - May 2024*  
   - Implemented face recognition using OpenCV's Haar Cascade algorithm.
   - Achieved approximately 80% accuracy in identifying registered users.
-  - [Project Repository](https://github.com/yourusername/face-recognition-system)
+  - [Project Repository](https://github.com/demna0920/FacialRecognitionProject)
 
-- **Customer Churn Prediction Model**  
-  *August 2023*  
-  - Built a model to predict customer churn using Python, Pandas, and Scikit-learn.
-  - Improved model accuracy by 15% through feature engineering and hyperparameter tuning.
-  - [Project Repository](https://github.com/yourusername/churn-prediction)
 
 ---
 
 ### 📫 Contact
 - **Email:** 51305130ss@gmail.com
 - **LinkedIn:** [Janghoon Jung](https://www.linkedin.com/in/janghoon-jung-6b28a5218/)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **GitHub:** [yourusername](https://github.com/demna0920)
 
 ---
 
