@@ -3,10 +3,11 @@
 Welcome to my personal portfolio! Here you can find my education background, work experience, and projects that demonstrate my skills and passion in data science and software development.
 
 ---
+
 ### 🎓 Education
 - **BSc Computer Science**  
-  Queen Mary, University of London (2021 - 2024)
-  upper second class achievement
+  Queen Mary, University of London (2021 - 2024)  
+  Upper second class achievement
   - Relevant Courses:  
     - Professional and Research Practice (90%)
     - Graphical User Interfaces (81%)
@@ -35,10 +36,20 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 ---
 
 ### 🛠️ Projects
+- **Data Analysis and Visualization of Global Electric Vehicle (EV) Market Trends**  
+  *September 2023 - May 2024*  
+  - Conducted in-depth analysis and visualization of global EV market trends using Python (Pandas, Matplotlib, Seaborn) and SQL (PostgreSQL).
+  - Designed and managed a PostgreSQL database to store and query EV-related data, focusing on sales, infrastructure, and environmental impact.
+  - Developed clear visualizations to illustrate key findings, including the growth of EV sales, expansion of charging stations, and oil displacement trends.
+  - Identified significant trends that could inform future policy decisions and market strategies, providing data-driven insights.
+  - [Project Repository](https://github.com/demna0920/Global-EV-Market-Analysis)
+
 - **Machine Learning-Based Robbery and Crime Detection System**  
   *September 2023 - May 2024*  
   - Developed a crime detection system using Python, OpenCV, and MediaPipe.
   - Achieved a 57% accuracy rate with a custom YOLO dataset for weapon detection.
+  - Trained on over 5000 images, identifying 9 out of 10 robbery scenarios accurately.
+  - Developed an advanced LSTM and CNN-based scene understanding model using PyTorch, designed to detect criminal activities from video footage.
   - [Project Repository](https://github.com/demna0920/crime-detection-system)
 
 - **Face Recognition System**  
@@ -47,6 +58,28 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   - Achieved approximately 80% accuracy in identifying registered users.
   - [Project Repository](https://github.com/demna0920/FacialRecognitionProject)
 
+---
+
+### 🏆 Achievements
+- **Gold Award | Korea University Invention Association**  
+  *2020*  
+  - Developed an innovative system capturing human emotions, integrating an app and IoT-enabled mood light through heart rate analysis (Arduino, Android Studio, Java).
+
+- **1st Place | Korea Educational Broadcasting System**  
+  *2019*  
+  - Developed a robot to address illegal poaching, winning 1st place out of 100 teams.
+
+- **Top-10 Thesis | Korea Robot Society**  
+  *2018*  
+  - Authored a top-10 thesis on trends in humanoid robotics, selected from over 200 submissions.
+
+- **Software Programming Award | Samsung**  
+  *2018*  
+  - Developed an innovative gait analysis system using Arduino, gyro sensors, and pressure sensors to detect and analyze users' walking patterns.
+
+- **3rd Place | Posco Humanoid Performance Contest**  
+  *2017*  
+  - Programmed a humanoid robot to perform various tasks, securing 3rd place out of 50 teams.
 
 ---
 
