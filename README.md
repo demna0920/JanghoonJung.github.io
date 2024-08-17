@@ -42,7 +42,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   - Designed and managed a PostgreSQL database to store and query EV-related data, focusing on sales, infrastructure, and environmental impact.
   - Developed clear visualizations to illustrate key findings, including the growth of EV sales, expansion of charging stations, and oil displacement trends.
   - Identified significant trends that could inform future policy decisions and market strategies, providing data-driven insights.
-  - [Project Repository](https://github.com/demna0920/Global-EV-Market-Analysis)
+  - [Project Repository](https://github.com/demna0920/EV-Market-Analysis)
 
 - **Machine Learning-Based Robbery and Crime Detection System**  
   *September 2023 - May 2024*  
@@ -61,6 +61,13 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 ---
 
 ### 🏆 Achievements
+- **Team Leader and Participant – International Robot Olympiad**  
+  *South Korea Final 3rd*  
+  - Successfully led and managed a team of two members with diverse technical backgrounds, resulting in a top 3 finish out of 500 teams.
+  - Conducted weekly meetings to monitor project progress and maintain clear communication channels, ensuring the project was completed within the set deadline.
+  - Actively solicited and integrated a wide range of team member opinions and feedback, which strengthened team cohesion and led to creative solutions.
+  - Resolved a critical CPU issue during robot assembly practice, allowing for successful completion of the project and presentation.
+
 - **Gold Award | Korea University Invention Association**  
   *2020*  
   - Developed an innovative system capturing human emotions, integrating an app and IoT-enabled mood light through heart rate analysis (Arduino, Android Studio, Java).
