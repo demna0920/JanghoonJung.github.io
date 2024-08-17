@@ -32,7 +32,9 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 - **Interpreter | Korea SMEs and Start-ups Agency | South Korea**  
   September 2022  
   - Facilitated communication for 15+ international buyers and Korean sellers.
-
+- **Interpreter | Korea Women’s Invention Association | South Korea**
+  August 2022
+- Provided interpretation for 10+ national teams at an international fair.
 ---
 
 ### 🛠️ Projects
@@ -42,7 +44,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   - Designed and managed a PostgreSQL database to store and query EV-related data, focusing on sales, infrastructure, and environmental impact.
   - Developed clear visualizations to illustrate key findings, including the growth of EV sales, expansion of charging stations, and oil displacement trends.
   - Identified significant trends that could inform future policy decisions and market strategies, providing data-driven insights.
-  - [Project Repository](https://github.com/demna0920/EV-Market-Analysis)
+  - [Project Repository](https://github.com/demna0920/Global-EV-Market-Analysis)
 
 - **Machine Learning-Based Robbery and Crime Detection System**  
   *September 2023 - May 2024*  
