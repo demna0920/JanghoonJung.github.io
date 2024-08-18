@@ -60,6 +60,17 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   - Achieved approximately 80% accuracy in identifying registered users.
   - [Project Repository](https://github.com/demna0920/FacialRecognitionProject)
 
+- **Data Mining Assignments**  
+  *Completed during Data Mining Course at Queen Mary University of London*  
+  - **Assignment 1: Wine Dataset Analysis**
+    - Performed exploratory data analysis on the wine dataset, including univariate and multivariate analysis, Principal Component Analysis (PCA), and nearest neighbor classification.
+    - Skills Used: Python, Pandas, Scikit-learn, Matplotlib
+    - Key Techniques: Data cleaning, PCA, 1-Nearest Neighbor Classification
+  - **Assignment 2: Association Rule Mining**
+    - Implemented and analyzed association rules using the Apriori and FP-Growth algorithms to discover interesting patterns within transactional data.
+    - Skills Used: Python, Pandas, mlxtend, Scikit-learn
+    - Key Techniques: Association Rule Mining, Kulczynski Measure, Imbalance Ratio
+
 ---
 
 ### 🏆 Achievements
