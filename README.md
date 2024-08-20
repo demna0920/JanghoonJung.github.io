@@ -34,7 +34,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
   - Facilitated communication for 15+ international buyers and Korean sellers.
 - **Interpreter | Korea Women’s Invention Association | South Korea**
   August 2022
-- Provided interpretation for 10+ national teams at an international fair.
+  -Provided interpretation for 10+ national teams at an international fair.
 ---
 
 ### 🛠️ Projects
