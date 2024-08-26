@@ -70,12 +70,12 @@ Welcome to my personal portfolio! Here you can find my education background, wor
     - Implemented and analyzed association rules using the Apriori and FP-Growth algorithms to discover interesting patterns within transactional data.
     - Skills Used: Python, Pandas, mlxtend, Scikit-learn
     - Key Techniques: Association Rule Mining, Kulczynski Measure, Imbalance Ratio
-    - 
-- **Amazon Prime Data Analysis**  
-  *August 2024*  
-  - Developed an interactive Power BI dashboard to analyze Amazon Prime Movies and TV Shows data.
-  - Visualized key metrics such as genre distribution, ratings, geographic spread, and release trends.
-  - [Project Repository](https://github.com/demna0920/Amazon-Prime-Data-Analysis)
+   
+  - **Amazon Prime Data Analysis**  
+    *August 2024*  
+    - Developed an interactive Power BI dashboard to analyze Amazon Prime Movies and TV Shows data.
+    - Visualized key metrics such as genre distribution, ratings, geographic spread, and release trends.
+    - [Project Repository](https://github.com/demna0920/Amazon-Prime-Data-Analysis)
 
 ---
 
