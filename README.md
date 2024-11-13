@@ -20,7 +20,7 @@ Welcome to my personal portfolio! Here you can find my education background, wor
 
 ### 💼 Work Experience
 - **AI Model Reviewer | Outlier | Remote**  
-  May 2024 - Present  
+  May 2024 - August 2024  
   - Reviewed responses 30% faster than peers, improving project efficiency.
   - Enhanced AI model accuracy through detailed feedback and analysis.
 
